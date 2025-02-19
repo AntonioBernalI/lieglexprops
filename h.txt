@@ -1,0 +1,12 @@
+<div class="text_container">
+    <h2>What is lieglex?</h2>
+    <p>
+        <b>Lieglex</b> is a software that helps organizations like NGOs, prisons, company cafeterias, hospitals, schools,
+        and shelters manage food more efficiently.
+        <br>
+        <br>
+        Using math-based optimization,
+        we create balanced meal plans at the lowest possible cost,
+        reducing waste and supporting the Zero Hunger (UN SDG 2) goal, especially in developing countries.
+    </p>
+</div>
